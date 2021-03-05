@@ -1,6 +1,5 @@
-### Bienvenue sur mon profile GIt 👋
+### Bienvenue sur mon profile GIT 👋
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on 042-GesProj2
 - 🌱 I’m currently learning php and sql
