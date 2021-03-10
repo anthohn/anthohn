@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning *PHP* and *SQL*
 - 🤔 I’m looking for help with *PHP*
 
-### 📚 The languages that I know :
+### Languages that I know :
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white)
