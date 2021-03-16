@@ -1,4 +1,4 @@
-### Welcome on my GitHub profil 🐈
+### Welcome on my GitHub profil 🐈 tqt c'est privé hein
 
 
 - 👨🏼‍🎓 I'm an <a href="https://etml.ch" target="_blank">ETML</a> Student
