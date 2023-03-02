@@ -1,8 +1,8 @@
 ### Welcome on my GitHub profil
 
 - 👨🏼‍🎓 I'm an <a href="https://etml.ch" target="_blank">ETML</a> Student
-- 🔭 I’m currently working on *042-GesProj2*
-- 🌱 I’m currently learning *JavaScript* 
+- 🔭 I’m currently working on *P_APPRO_A12 *
+- 🌱 I’m currently learning *Symfony* 
 
 ### Languages that I know :
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
