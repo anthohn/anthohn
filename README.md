@@ -1,7 +1,7 @@
 ### Welcome on my GitHub profil
 
 - 👨🏼‍🎓 I'm an <a href="https://etml.ch" target="_blank">ETML</a> Student
-- 🔭 I’m currently working on *P_APPRO_A12*
+- 🔭 I’m currently working on my *TPI*
 - 🌱 I’m currently learning *Symfony* 
 
 ### Languages that I know :
