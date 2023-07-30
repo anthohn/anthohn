@@ -2,7 +2,7 @@
 
 - 👨🏼‍🎓 I'm an IT dev Student
 - 🔭 I’m currently working on my *three.js journey*
-- 🌱 I’m currently learning *three.js* 
+- 🌱 I’m currently learning *three.js* *Symfony* and *Laravel*
 
 ### Languages that I know :
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
