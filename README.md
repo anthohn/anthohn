@@ -1,6 +1,6 @@
 <h2 align="center">
   <samp> > Hi, I'm Anthony, <br>Welcome on my GitHub profil 👨‍🎓</samp>
-</h2>
+</h2><br>
 - 👨🏼‍🎓 I'm an IT dev Student
 - 🔭 I’m currently working on my *three.js journey*
 - 🌱 I’m currently learning *ThreeJS* *Symfony* and *Laravel*
