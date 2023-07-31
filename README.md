@@ -1,9 +1,16 @@
 <h2 align="center">
   <samp> > Hi, I'm Anthony, <br>Welcome on my GitHub profil 👨‍🎓</samp>
-</h2><br>
-- 👨🏼‍🎓 I'm an IT dev Student
-- 🔭 I’m currently working on my *three.js journey*
-- 🌱 I’m currently learning *ThreeJS* *Symfony* and *Laravel*
+</h2>
+
+<br>
+
+<h3>
+  <ul>
+    <li>👨🏼‍🎓 I'm an IT dev Student</li>
+    <li>🔭 I’m currently working on three.js journey</li>
+    <li>🌱 I’m learning ThreeJS, Symfony and Laravel</li>
+  </ul>
+</h3>
 
 ### Languages that I know :
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
