@@ -7,8 +7,7 @@
 <h3>
   <ul>
     <li>👨🏼‍🎓 I'm an IT dev Student</li>
-    <li>🔭 I’m currently working on three.js journey</li>
-    <li>🌱 I’m learning ThreeJS, Symfony and Laravel</li>
+    <li>🌱 I’m learning React, ThreeJS, Symfony & Django</li>
   </ul>
 </h3>
 
