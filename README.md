@@ -7,7 +7,7 @@
 <h3>
   <ul>
     <li>👨🏼‍🎓 I'm an IT dev Student</li>
-    <li>🌱 I’m learning React, ThreeJS, Symfony & Django</li>
+    <li>🌱 I’m learning React & Django</li>
   </ul>
 </h3>
 
