@@ -7,7 +7,7 @@
 <h3>
   <ul>
     <li>👨🏼‍🎓 I'm an IT Student</li>
-    <li>🌱 I use NextJs, FramerMotion, TailwindCss</li>
+    <li>🌱 I mainly use Next.js, Framer Motion, and Tailwind CSS.</li>
   </ul>
 </h3>
 
