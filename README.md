@@ -6,8 +6,8 @@
 
 <h3>
   <ul>
-    <li>👨🏼‍🎓 I'm an IT dev Student</li>
-    <li>🌱 I’m learning React & Django</li>
+    <li>👨🏼‍🎓 I'm an IT Student</li>
+    <li>🌱 I use NextJs, FramerMotion, TailwindCss</li>
   </ul>
 </h3>
 
